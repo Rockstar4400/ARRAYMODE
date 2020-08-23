@@ -2,6 +2,9 @@
 
 Given array of integers, find its mode.
 
+Source Help:
+https://beginnersbook.com/2014/08/how-to-iterate-over-a-sethashset/
+
 Example
 
 For sequence = [1, 3, 3, 3, 1], the output should be
